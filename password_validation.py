@@ -21,7 +21,7 @@ def solution(S):
             return True
 
 #password 
-password = "mJGdp499&"
+password = "mJGp1@"
 
 #calling the function and printing the return value to the terminal
 print(solution(password))
