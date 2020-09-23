@@ -1,7 +1,7 @@
 #import the regular expression module
 import re
 
-#the solution function validates the passweord passed to it
+#the solution function validates the password passed to it
 def solution(S):
     # this loop will run until False in invoke 
     while True:
